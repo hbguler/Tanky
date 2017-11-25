@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 92f4696a89563774c859ccc98a61075c
+timeCreated: 1511639911
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Heartbeat in Christmas
+  fontNames:
+  - Heartbeat in Christmas
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

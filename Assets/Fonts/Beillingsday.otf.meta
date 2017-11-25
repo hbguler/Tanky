@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a81c872c246110943a4e0b95e45746f1
+timeCreated: 1511640039
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Beillingsday
+  fontNames:
+  - Beillingsday
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
